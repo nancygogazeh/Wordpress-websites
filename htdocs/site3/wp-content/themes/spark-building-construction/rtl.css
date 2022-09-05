@@ -1,0 +1,15 @@
+.cons-testimonial-layout-left .section-tagline, .cons-testimonial-layout-left .section-title,
+#free-hand-text-section,
+.articlesListing .entry-content,
+header.cons-agency .brandinglogo-wrap{
+    text-align: right;
+}
+.banner-contact-form{
+    left: 8%;
+    right: unset;
+    text-align: right;
+}
+.sparkle-maintenance-countdown.circle .sparkle-count-label{
+    margin-right: unset;
+    margin-left: 15px;
+}
